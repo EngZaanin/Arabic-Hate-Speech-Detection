@@ -1,0 +1,9 @@
+numpy==1.26.4
+pandas
+scikit-learn
+scipy
+torch
+transformers==4.44.2
+accelerate==0.33.0
+datasets
+matplotlib
