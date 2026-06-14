@@ -1,5 +1,11 @@
 # Fine-grained Hate Speech Detection in Arabic Text with Linguistic Analysis using Transformers
 
+## Research Paper
+
+The complete research paper is available in:
+
+paper/Fine_Grained_Hate_Speech_Detection_Paper.pdf
+
 ## Overview
 
 This project presents a fine-grained hate speech detection system for Arabic text using Transformer-based models. The study focuses on distinguishing between three categories of Arabic social media content:
