@@ -106,7 +106,7 @@ Arabic-Hate-Speech-Detection/
 │   └── transformer_error_analysis.csv
 │
 ├── paper/
-│   └── Final_Paper.pdf
+│   └── Fine_Grained_Hate_Speech_Detection_Paper.pdf
 │
 ├── requirements.txt
 └── README.md
